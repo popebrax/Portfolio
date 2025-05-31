@@ -87,7 +87,7 @@ export function FloatingNav() {
                 className="ml-2 bg-gradient-to-r from-purple-500 to-pink-500 hover:from-pink-500 hover:to-purple-500 border-0"
                 asChild
               >
-                <Link href="/assets/Braxton Otieno-CV.pdf" target="_blank">Resume</Link>
+                <Link href="/Braxton Otieno-CV.pdf" target="_blank">Resume</Link>
               </Button>
             </div>
           )}
